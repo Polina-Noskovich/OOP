@@ -1,0 +1,29 @@
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\HospitalManagementSystem.csproj.AssemblyReference.cache
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\HospitalManagementSystem.AssemblyInfoInputs.cache
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\HospitalManagementSystem.AssemblyInfo.cs
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\bin\Debug\net6.0\HospitalManagementSystem.exe
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\bin\Debug\net6.0\HospitalManagementSystem.deps.json
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\bin\Debug\net6.0\HospitalManagementSystem.runtimeconfig.json
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\bin\Debug\net6.0\HospitalManagementSystem.dll
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\bin\Debug\net6.0\HospitalManagementSystem.pdb
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\HospitalManagementSystem.dll
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\refint\HospitalManagementSystem.dll
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\HospitalManagementSystem.pdb
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\HospitalManagementSystem.genruntimeconfig.cache
+F:\2023\Spring - 2023\.NET Application Development\Assignment-1\HospitalManagementSystem\obj\Debug\net6.0\ref\HospitalManagementSystem.dll
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\HospitalManagementSystem.AssemblyInfoInputs.cache
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\HospitalManagementSystem.AssemblyInfo.cs
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\HospitalManagementSystem.dll
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\refint\HospitalManagementSystem.dll
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\HospitalManagementSystem.pdb
+D:\c#\HospitalManagSystem\OOP\bin\Debug\net6.0\HospitalManagementSystem.exe
+D:\c#\HospitalManagSystem\OOP\bin\Debug\net6.0\HospitalManagementSystem.deps.json
+D:\c#\HospitalManagSystem\OOP\bin\Debug\net6.0\HospitalManagementSystem.runtimeconfig.json
+D:\c#\HospitalManagSystem\OOP\bin\Debug\net6.0\HospitalManagementSystem.dll
+D:\c#\HospitalManagSystem\OOP\bin\Debug\net6.0\HospitalManagementSystem.pdb
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\HospitalManagementSystem.genruntimeconfig.cache
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\ref\HospitalManagementSystem.dll
