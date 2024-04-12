@@ -37,8 +37,9 @@ CheckUserPassword(),
 Функция позволяет пользователю выйти из системы. За логику данной функции будет отвечать метод:
 #### LogoutProgress()
 ## 3. Классы
-![image](https://github.com/Polina-Noskovich/OOP/assets/112765296/4bf57580-8de7-4604-88e7-36120ec3fd48)
+![Снимок экрана 2024-03-01 143943](https://github.com/Polina-Noskovich/OOP/assets/112765296/5e933489-8e6e-4f48-9e68-a981630190ee)
 ## 4. ER-Diagram
-![image](https://github.com/Polina-Noskovich/OOP/assets/112765296/223eba9a-01fc-4488-8bd4-928d3e128c53)
+![Снимок экрана 2024-03-01 145102](https://github.com/Polina-Noskovich/OOP/assets/112765296/d0ba2934-eb03-40f8-aa3a-2b8c1df1d529)
 ## 5. Cлоеная архитектура
-![image](https://github.com/Polina-Noskovich/OOP/assets/112765296/9ebdd9db-ba15-4cca-ac0a-9db32090c9f6)
+![image](https://github.com/Polina-Noskovich/OOP/assets/112765296/400e58b0-3731-4779-b1ce-6c9be6a04e4e)
+
