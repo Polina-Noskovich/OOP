@@ -27,3 +27,4 @@ D:\c#\HospitalManagSystem\OOP\bin\Debug\net6.0\HospitalManagementSystem.dll
 D:\c#\HospitalManagSystem\OOP\bin\Debug\net6.0\HospitalManagementSystem.pdb
 D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\HospitalManagementSystem.genruntimeconfig.cache
 D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\ref\HospitalManagementSystem.dll
+D:\c#\HospitalManagSystem\OOP\obj\Debug\net6.0\HospitalManagementSystem.sourcelink.json
